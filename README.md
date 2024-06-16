@@ -2,18 +2,18 @@
 
 💻 Languages & Skills:
 
-Proficient in: C, HTML, CSS
-Learning: Python, C++
+Proficient in: C, HTML, CSS 
+Learning: Python, C++ 
 Web Development: Got the basics down!
 
 🔒 Cyber Security Enthusiast:
 
-Diving deep into the world of cyber security.
+Diving deep into the world of cyber security. 
 Sharing my university projects and cool stuff I learn along the way.
 
 ⚽ Personal Interests:
 
-When I'm not coding, you can find me at the gym or on the football field.
+When I'm not coding, you can find me at the gym or on the football field. 
 Always up for a challenge, whether it's lifting weights or tackling new coding problems.
 
 🎯 Goals:
