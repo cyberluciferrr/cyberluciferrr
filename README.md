@@ -3,8 +3,8 @@
 💻 Languages & Skills:
 
 Proficient in: C, HTML, CSS 
-Learning: Python, C++ 
-Web Development: Got the basics down!
+     Learning: Python, C++ 
+     Web Development: Got the basics down!
 
 🔒 Cyber Security Enthusiast:
 
@@ -19,4 +19,4 @@ Always up for a challenge, whether it's lifting weights or tackling new coding p
 🎯 Goals:
 
 Mastering Python and C++
-Building a strong portfolio of projects and contributions here on GitHub.
+     Building a strong portfolio of projects and contributions here on GitHub.
