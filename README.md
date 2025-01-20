@@ -2,7 +2,7 @@
 
 💻 Languages & Skills:
 
-Proficient in: C, HTML, CSS 
+Proficient in: C, HTML, CSS and JAVA
      Learning: Python, C++ 
      Web Development: Got the basics down!
 
