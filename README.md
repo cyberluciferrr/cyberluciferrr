@@ -1,4 +1,4 @@
-👋 Hey there! I'm CyberLucifer, a Bachelor's student in Cyber Security. I code whenever I can and dabble in various languages and web development.
+👋 Hey there! I'm Lucifer, a Bachelor's student in Cyber Security. I code whenever I can and dabble in various languages and web development.
 
 💻 Languages & Skills:
 
