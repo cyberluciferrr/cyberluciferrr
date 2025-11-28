@@ -1,22 +1,19 @@
-👋 Hey there! I'm Lucifer, a Bachelor's student in Cyber Security. I code whenever I can and dabble in various languages and web development.
+About Me
 
-💻 Languages & Skills:
+Hi, I’m Ali, a Bachelor's student in Cyber Security. I’m passionate about coding and exploring new technologies across multiple programming languages and platforms.
 
-Proficient in: C, HTML, CSS and JAVA
-     Learning: Python, C++ 
-     Web Development: Got the basics down!
+Cyber Security Focus
 
-🔒 Cyber Security Enthusiast:
+Exploring cybersecurity concepts and practices
+Developing practical projects like Remote System Monitor using socket programming
+Sharing university projects and coding experiments
 
-Diving deep into the world of cyber security. 
-Sharing my university projects and cool stuff I learn along the way.
+Personal Interests
 
-⚽ Personal Interests:
+Staying active at the gym and playing football
+Enjoy solving coding challenges and technical problems
 
-When I'm not coding, you can find me at the gym or on the football field. 
-Always up for a challenge, whether it's lifting weights or tackling new coding problems.
-
-🎯 Goals:
-
-Mastering Python and C++
-     Building a strong portfolio of projects and contributions here on GitHub.
+Goals
+Master Python and C++
+Build a strong portfolio of projects and contributions on GitHub
+Gain practical experience in cybersecurity and network programming
